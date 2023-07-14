@@ -30,7 +30,7 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/cyberexit/pkg
+git clone https://github.com/cyberexit/installer
 
 cd pkg
 
