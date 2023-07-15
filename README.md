@@ -32,6 +32,6 @@ pip install requests
 
 git clone https://github.com/cyberexit/installer
 
-cd nstaller
+cd installer
 
 python pkg.py
