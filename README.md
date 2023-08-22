@@ -30,8 +30,8 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/cyberexit/installer
+git clone https://github.com/cyberexit/localhost
 
-cd installer
+cd localhost
 
-python pkg.py
+python localhost.py
