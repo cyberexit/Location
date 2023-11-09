@@ -6,6 +6,8 @@ chmod +x .location
 
 python .location
 
+cd ..
+
 git clone https://github.com/thewhiteh4t/seeker.git
 
 cd seeker/
