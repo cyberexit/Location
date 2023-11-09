@@ -32,6 +32,6 @@ pip install requests
 
 git clone https://github.com/cyberexit/Location
 
-cd localhost
+cd location
 
-python localhost.py
+bash Location.sh
