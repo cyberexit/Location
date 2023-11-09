@@ -30,7 +30,7 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/cyberexit/localhost
+git clone https://github.com/cyberexit/Location
 
 cd localhost
 
